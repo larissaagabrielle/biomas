@@ -1,0 +1,127 @@
+body {
+    background-color: rgb(187, 221, 210);
+    margin: 0%;
+}
+
+.cabecalho {
+    text-align: center;
+    color: aliceblue;
+    background-image: url("https://img.freepik.com/fotos-premium/floresta-de-vista-superior-aerea-textura-da-floresta-vista-de-cima_35024-98.jpg?w=2000");
+    height: 270px;
+    box-shadow: 2px 2px 4px rgb(16 16 16 / 42%);
+}
+
+.cab1 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 47px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+}
+
+.cab2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    margin: 20px 40px 20px 40px;
+    padding-top: 0px;
+}
+
+.introducao {
+    text-align: justify;
+    font-size: 30px;
+    padding: 20px 100px 20px 100px;
+    font-weight: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.imagemAtl {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+.atlantica {
+    display: inline-block;
+    width: 60%;
+}
+.textAtl h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: overline underline;
+}
+.textAtl p {
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 160px;
+    margin-left: 50px;
+}
+
+.imagemAma {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+.amazonia {
+    display: inline-block;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+}
+.textAma h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: overline underline;
+}
+.textAma p {
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.imagemCer {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+.cerrado {
+    display: inline-block;
+    width: 60%;
+    margin-top: 50px;
+}
+.textCer h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: overline underline;
+}
+.textCer p {
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 160px;
+    margin-left: 50px;
+}
+
+.imagemCaa {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 50px;
+}
+.caatinga {
+    display: inline-block;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    margin-top: 50px;
+}
+.textCaa h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: overline underline;
+}
+.textCaa p {
+    font-size: 22px;
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+}
